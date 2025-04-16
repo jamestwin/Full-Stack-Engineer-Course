@@ -41,3 +41,14 @@ This often includes:
   - One or more JavaScript files. JavaScript makes the webpage interactive. This programming language functions as the “behavior” of the web page. A webpage that does not use JavaScript is known as a static webpage.
                                                                                     ==Codecademy==
 
+
+## Web development
+
+There are numerous languages that need to be known for web development. This section will briefly go over four of the main languages for web development and see what kind of features and skills come with them.
+
+### HTML
+
+As my tutor famously says, "HTML is like the skeleton" of all web pages.
+HTML stands for hypertext markup language and provides the structure to all the content on a website, including text, images, buttons, videos, and more.
+
+
