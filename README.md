@@ -1,1 +1,3 @@
 # Full-Stack-Engineer-Course
+
+This repository is for all of my notes that will be taken from the Full Stack Engineer course on Codecademy. Each unit will be dedicated to an individual branch. Projects done throughout this course will either be part of this repository, or as a seperate repository on their own. This is all dependant on whether the project requires to be pushed to GitHub alone without any other projects interferring.
